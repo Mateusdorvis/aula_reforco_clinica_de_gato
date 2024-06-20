@@ -34,7 +34,11 @@ def le_lista_gato():
             gato = Gato(nome, idade)
             list_g.append(gato)
     return list_g
-        
+Gato.calabreza_s()#o chamado estático
+#Gato.calabreza()
+#Gato.calabreza()#ia dar erro pois nao é um objeto é uma classe
+
+#gato1.calabreza()#o chamado pro instancia        
 #gato_do_txt = ler_gato()
 
 #print(f"Gato({gato_do_txt.nome , gato_do_txt.idade})")
