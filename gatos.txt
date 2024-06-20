@@ -1,0 +1,2 @@
+Gato: nome:Michi;idade:20
+Gato: nome:Salsa;idade:5
